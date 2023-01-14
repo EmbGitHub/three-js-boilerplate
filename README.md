@@ -1,4 +1,4 @@
-# Three js Boilerplate App
+# Three.js Boilerplate App
 
 This is a basic boilerplate application for creating WebGL projects using Three.js and Parcel. It includes the following features:
 
