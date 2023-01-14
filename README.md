@@ -1,8 +1,8 @@
-# WebGL Boilerplate App
+# Three js Boilerplate App
 
 This is a basic boilerplate application for creating WebGL projects using Three.js and Parcel. It includes the following features:
 
-+ A basic file structure for a WebGL project
++ A basic file structure for a three.js project
 + A simple scene with a rotating cube
 + A basic camera and controls
 + A basic material for the cube
